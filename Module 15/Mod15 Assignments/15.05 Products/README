@@ -1,0 +1,14 @@
+PMR
+
++
+I liked how this assignment combined everything I had learnt in the previous lessons, it definitely help differentiate
+abstract classes and interfaces, and I feel like I have a good understanding of when to use them. I didn't know you could
+use an interface in an ArrayList, so that seemed very cool to me!
+
+-
+The directions were a bit vague, so I hope I did everything right. The output seems fine, but I was expecting the assignment
+would be bigger, and not just instructions from the pdf.
+
+While I was a bit confused about why Polymorphism and Inheritance were so important when I first learnt about them, now
+I see that they go very well with Abstract Classes and Interfaces. It is great to be able to declare an array of one type,
+put many different types into it through polymorphism, and even be able to increment through it with a for-each loop!

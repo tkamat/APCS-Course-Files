@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'CaesarShiftTester'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'CaesarShiftTester'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;longestNum&apos; in &apos;P26V1.calcNumberWithLongestSequence(...)&apos; to &apos;cyclicNum&apos;&#x0D;&#x0A;- Original project: &apos;Problem 26 - Reciprocal cycles&apos;&#x0D;&#x0A;- Original element: &apos;P26V1.calcNumberWithLongestSequence(int, boolean[]).longestNum&apos;&#x0D;&#x0A;- Renamed element: &apos;longestNum&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;longestNum&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;{P26V1.java[P26V1~calcNumberWithLongestSequence~I~\[Z@longestNum!787!826!798!807!QBigInteger;!0!false" name="cyclicNum" references="true" stamp="1478051953761" version="1.0"/>
+</session>

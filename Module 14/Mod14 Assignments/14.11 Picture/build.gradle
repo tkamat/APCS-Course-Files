@@ -1,0 +1,14 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = "PictureTester"
+
+repositories {
+    mavenCentral()
+}
+
+run {
+  standardInput = System.in
+}
+

@@ -1,0 +1,13 @@
+PMR
+
++
+Now I understand why polymorphism is so important, it is essential when you
+have a lot of overridden methods and you need to select a certain one to use.
+The concept of overriding methods reminds me of overloaded methods which I
+learned about earlier.
+
+-
+I still don't really understand the instanceOf notation in the equals method
+from EIMACS, although it isn't in the AP exam so it doesn't matter that much
+
+This module was pretty quick so far---I am exited to move back into the Magpie Lab!

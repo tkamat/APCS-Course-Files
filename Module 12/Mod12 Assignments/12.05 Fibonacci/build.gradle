@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'FibonacciNumbers'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'FibonacciNumbers'
+  }
+}
+
+run {
+  standardInput = System.in
+}

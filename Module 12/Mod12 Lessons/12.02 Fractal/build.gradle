@@ -1,0 +1,11 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'SierpinskiTriangle'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'SierpinskiTriangle'
+  }
+}

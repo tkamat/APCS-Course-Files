@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'CandyTester'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'CandyTester'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

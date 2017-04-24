@@ -1,0 +1,15 @@
+PMR
+
++
+I remember being a bit confused when I learnt about the compareTo method for strings, as it didn't seem very intuitive
+and I could never remember what the output meant. This lesson cleared it up however, and it is cool to see how I can use
+the Comparable<t> interface classes I create, it seems like a good way to standardize comparing Objects.
+
+-
+I sometimes still mix up the order between the object calling the compareTo method and the parameter Object, but that will
+surely become better as I implement and use the Comparable<t> interface more often. Also, it can get confusing sometimes
+implementing multiple interfaces, as if you forget to define an abstract method, the program refuses to run!
+
+This interface seems very useful, and I could see it being helpful when needing to sort large amounts of data by a certain
+value. Instead of giving you a fixed way to compare Objects, java allows you to create your own method through the Comparable<t>
+interface, which I find very cool and intuitive.

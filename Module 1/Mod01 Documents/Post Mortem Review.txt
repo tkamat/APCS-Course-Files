@@ -1,0 +1,17 @@
+PROJECT TITLE 01.05 School Information  SchoolInfoCard.java
+PURPOSE OF PROJECT Use print statements to print information about me.
+VERSION or DATE 013107
+AUTHORS B. Jordan
+
+ P M R 
+ 
++s Using the BlueJ editor was easy.
+      The syntax of print statements is straightforward, but I kept forgetting to use println( )
+      to force a line feed after using print( ).
+      
+-s Lining everything up took a lot of time.
+      Made frequent typos.
+           
+
+In the future It probably would save time to write out on paper how to arrange all of the output
+instead of guestimating.  Need to pay closer attention when typing to reduce silly typos.

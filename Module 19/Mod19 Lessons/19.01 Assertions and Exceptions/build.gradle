@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'Banking'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'Banking'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

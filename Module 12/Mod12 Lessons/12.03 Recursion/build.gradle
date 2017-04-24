@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'ReverseUserInput'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'ReverseUserInput'
+  }
+}
+
+run {
+  standardInput = System.in
+}

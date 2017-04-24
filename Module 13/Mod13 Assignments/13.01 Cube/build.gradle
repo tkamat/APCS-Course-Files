@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'TestCube'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'TestCube'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

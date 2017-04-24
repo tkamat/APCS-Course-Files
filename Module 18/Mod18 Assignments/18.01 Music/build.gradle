@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'TestMusic'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'TestMusic'
+  }
+}
+
+run {
+  standardInput = System.in
+}

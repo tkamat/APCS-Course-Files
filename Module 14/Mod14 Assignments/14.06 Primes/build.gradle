@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'PrimeTester'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'PrimeTester'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

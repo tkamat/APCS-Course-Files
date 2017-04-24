@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'TestPoly'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'TestPoly'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=type\ sMiles\ eMiles\ gallons\ gallonPrice
+comment0.target=CarV5(java.lang.String,\ int,\ int,\ double,\ double)
+comment1.params=
+comment1.target=int\ calcDistance()
+comment2.params=dist
+comment2.target=double\ calcMPG(int)
+comment3.params=dist
+comment3.target=double\ calcGPM(int)
+comment4.params=
+comment4.target=double\ totalCost()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

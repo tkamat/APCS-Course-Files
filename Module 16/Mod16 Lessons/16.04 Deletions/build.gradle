@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'TestInventory7'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'TestInventory7'
+  }
+}
+
+run {
+  standardInput = System.in
+}

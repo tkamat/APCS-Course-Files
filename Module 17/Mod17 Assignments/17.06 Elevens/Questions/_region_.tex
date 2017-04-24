@@ -1,0 +1,119 @@
+\message{ !name(questions.tex)}\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+\author{Tushaar Kamat}
+\title{Elevens Lab Questions}
+
+\begin{document}
+
+\message{ !name(questions.tex) !offset(-3) }
+
+\maketitle
+
+\textbf{Activity 2}
+\begin{enumerate}
+  \item A card holds the values of a single card using its rank, suit, and
+    pointValue, while a deck holds many cards of different types that can be
+    dealt individually.
+  \item The deck would contain 6 cards. 
+  \item 
+\begin{verbatim}
+String[] ranks = { "ace", "two", "three", "four", "five", "six", "seven", 
+                       "eight", "nine", "ten", "jack", "queen", "king" };
+String[] suits = { "hearts", "diamonds", "spades", "clubs" };
+int[] pointValues = { 11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10 };
+\end{verbatim}
+  \item The order does not matter, as long as the rank array order matches with
+    the pointValue array order. Since the decks are eventually going to get
+    shuffled, it doesn't matter what order the cards are in to start. 
+\end{enumerate}
+
+\textbf{Activity 3}
+\begin{enumerate}
+\item
+\begin{verbatim}
+public static String flip() {
+    Random rand = new Random();
+    int randInt = rand.nextInt(3);
+    if (randInt < 3) 
+        return "heads"
+    else 
+        return "tails"
+}
+\end{verbatim}
+\item
+\begin{verbatim}
+public static boolean arePermutations(int[] a1, int[] a2) {
+    matchCounter = 0;
+    for (int i = 0; i < a1.length; i++) {
+        for (int j = 0; j < a2.length; j++) {
+            if (ai[i] == a2[j])
+                matchCounter++;
+        }
+    }
+    if (matchCounter == a1.length && matchCounter == a2.length)
+        return true;
+    else 
+        return false;
+}
+\end{verbatim}
+\item 0, 2, 1
+\end{enumerate}
+
+\textbf{Activity 6}
+\begin{enumerate}
+\item 5 of spades with 6 of clubs, 6 of clubs with 5 of clubs. 
+\item If the deck is empty, the last three cards have to be J, Q, and K since
+  there are an even number of non face cards, so it would be impossible to have
+  an odd number of left if they are only removed two at a time. Furthermore,
+  face cards are only removed three at a time, so they can only exist in
+  multiples of three.
+\item There is little strategy involved, except possibly prioritizing J Q K
+  combos over normal pairs since they take up more board space.
+\end{enumerate}
+
+
+\textbf{Activity 7}
+\begin{enumerate}
+\item Instance variables needed would be 9 spaces, a deck of cards, and a
+  discard pile. 
+\item \begin{itemize}
+      \item Create and shuffle a standard deck
+      \item Deal 9 cards into an array.
+      \item Check for J Q K triplets and replace.
+      \item Check for pairs that add up to 11 and replace.
+      \item Repeat previous two steps until either no options are available, in
+        which you lost, or no cards are left, int which you win.
+      \end{itemize}
+\item No, it just contains the code to set up and access the board.
+\item \begin{enumerate}
+      \item It is called in the constructor.
+      \item isLegal and anotherPlayIsPossible.
+      \item 0, 1, 3, 6, 7.
+      \item
+      \begin{verbatim}
+public static printCards(ElevensBoard board) {
+    List<Integer> cIndexes = board.cardIndexes();
+    for (int card : cIndexes)
+        System.out.println(card);
+}
+      \end{verbatim}
+      \item anotherPlayIsPossible, since it needs to look at all of the cards on
+        the board, while isLegal only looks at the selected cards given as the parameter.
+      \end{enumerate}
+\end{enumerate}
+
+\textbf{Activity 8}
+\begin{enumerate}
+\item Both \textit{Elevens}, \textit{Thirteens}, and \textit{Tens} all share the
+  same basic game structure of choosing pairs of cards that add up to a certain
+  number, and replacing them with new cards from the deck. They also share the
+  same winning and losing conditions, with victory being defined as having no
+  cards left in play and loss being defined as having no available moves. The
+  games differ on their methods of getting rid of high-value/face-cards, and
+  their win rates.
+\end{enumerate}
+
+\end{document}
+
+\message{ !name(questions.tex) !offset(-119) }

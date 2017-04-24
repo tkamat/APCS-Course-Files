@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printPurpose()
+comment1.params=ft
+comment1.target=double\ convertFeetToMiles(double)
+comment10.params=m
+comment10.target=double\ convertMetersToYards(double)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=mi
+comment2.target=double\ convertMilesToFeet(double)
+comment3.params=mi
+comment3.target=double\ convertMilesToKilometers(double)
+comment4.params=km
+comment4.target=double\ convertKilometersToMiles(double)
+comment5.params=lb
+comment5.target=double\ convertPoundsToKilograms(double)
+comment6.params=kg
+comment6.target=double\ convertKilogramsToPounds(double)
+comment7.params=gal
+comment7.target=double\ convertGallonsToLiters(double)
+comment8.params=L
+comment8.target=double\ convertLitersToGallons(double)
+comment9.params=yd
+comment9.target=double\ convertYardsToMeters(double)
+numComments=12

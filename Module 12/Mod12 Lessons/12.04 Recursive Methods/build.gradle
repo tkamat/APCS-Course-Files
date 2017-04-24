@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'RecursionMethodTester'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'RecursionMethodTester'
+  }
+}
+
+run {
+  standardInput = System.in
+}

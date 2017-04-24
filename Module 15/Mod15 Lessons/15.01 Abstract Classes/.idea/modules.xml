@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15.01 Abstract Classes.iml" filepath="$PROJECT_DIR$/.idea/modules/15.01 Abstract Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15.01_Abstract_Classes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/15.01_Abstract_Classes_main.iml" group="15.01 Abstract Classes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15.01_Abstract_Classes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/15.01_Abstract_Classes_test.iml" group="15.01 Abstract Classes" />
+    </modules>
+  </component>
+</project>

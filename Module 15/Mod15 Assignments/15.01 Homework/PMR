@@ -1,0 +1,12 @@
+PMR Hello from SSH!!
+
++
+Abstract classes seem very cool, and it helps demonstrate again how useful polymorphism is in Java. Also, I uses the
+Random class to generate page numbers, just for fun :)
+
+-
+It kind of stinks that you can't access instance variables from the abstract superclass directly, it is a pain having
+to use the getter and setter methods.
+
+Overall abstract classes seem like a great way to quickly create many similar classes without having to repeat yourself,
+which is always a good thing!

@@ -1,0 +1,13 @@
+PMR
+
++
+Interfaces seem like a good way to use polymorphism, without making a direct class hierarchy between Classes that may
+be completely unrelated, except for their method names. Now I understand more about the List<E> interface: while many of
+the classes that implement it are vastly different from each other, they all uses the same set of method names.
+
+-
+I still sometimes confuse Interfaces with Abstract Classes, as they are quite similar. Also, it is weird that Interfaces
+automatically make methods public and abstract, it would be confusing to see a method starting with just "void" on a test.
+
+This assignment was really helpful, as it had both abstract classes and interfaces together in the same program, and I
+feel that I will definitely use Interfaces in the future.

@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'TestMovie3'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'TestMovie3'
+  }
+}
+
+run {
+  standardInput = System.in
+}

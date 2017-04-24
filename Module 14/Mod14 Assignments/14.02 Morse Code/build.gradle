@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'MorseCodeTester'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'MorseCodeTester'
+  }
+}
+
+run {
+  standardInput = System.in
+}
+

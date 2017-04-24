@@ -1,0 +1,3552 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=prv_recursion 2016.11.7)  7 NOV 2016 22:03
+entering extended mode
+**&prv_recursion ./_region_.tex
+(_region_.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+  beamer.cls    2015/01/05 3.36 A class for typesetting presentations (rcs-revi
+sion 8a39122e1f63)
+beamerbasercs.sty    2015/03/08 (rcs-revision 368aa9ba9d38)
+beamerbasemodes.sty    2013/09/03 (rcs-revision 768f2d98ca64)
+beamerbasedecode.sty    2010/05/01 (rcs-revision efa082c6111d)
+   ifpdf.sty    2016/05/14 v3.1 Provides the ifpdf switch
+beamerbaseoptions.sty    2013/03/10 (rcs-revision 47431932db0d)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+geometry.sty    2010/09/12 v5.6 Page Geometry
+  ifvtex.sty    2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+geometry.cfg
+   fleqn.clo    2015/03/31 v1.1i Standard LaTeX option (flush left equations)
+  size11.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+ pgfcore.sty    2010/04/11 v3.0.1a (rcs-revision 1.7)
+graphicx.sty    2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2016/01/03 v1.10 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2016/07/10 v0.06j Graphics/color for pdfTeX
+infwarerr.sty    2016/05/16 v1.4 Providing info/warning/error messages (HO)
+ ltxcmds.sty    2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+  pgfsys.sty    2014/07/09 v3.0.1a (rcs-revision 1.48)
+  pgfrcs.sty    2015/08/07 v3.0.1a (rcs-revision 1.31)
+everyshi.sty    2001/05/15 v3.00 EveryShipout Package (MS)
+  pgfrcs.code.tex
+  pgfsys.code.tex
+pgfsyssoftpath.code.tex    2013/09/09  (rcs-revision 1.9)
+pgfsysprotocol.code.tex    2006/10/16  (rcs-revision 1.4)
+  xcolor.sty    2016/05/11 v2.12 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+ pgfcore.code.tex
+ xxcolor.sty    2003/10/24 ver 0.1
+atbegshi.sty    2016/06/09 v1.18 At begin shipout hook (HO)
+hyperref.sty    2016/06/24 v6.83q Hypertext links for LaTeX
+hobsub-hyperref.sty    2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+hobsub-generic.sty    2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+  hobsub.sty    2016/05/16 v1.14 Construct package bundles (HO)
+ifluatex.sty    2016/05/16 v1.4 Provides the ifluatex switch (HO)
+ intcalc.sty    2016/05/16 v1.2 Expandable calculations with integers (HO)
+etexcmds.sty    2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+kvsetkeys.sty    2016/05/16 v1.17 Key value parser (HO)
+kvdefinekeys.sty    2016/05/16 v1.4 Define keys (HO)
+pdftexcmds.sty    2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
+pdfescape.sty    2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+bigintcalc.sty    2016/05/16 v1.4 Expandable calculations on big integers (HO)
+  bitset.sty    2016/05/16 v1.2 Handle bit-vector datatype (HO)
+uniquecounter.sty    2016/05/16 v1.3 Provide unlimited unique counter (HO)
+letltxmacro.sty    2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+ hopatch.sty    2016/05/16 v1.3 Wrapper for package hooks (HO)
+xcolor-patch.sty    2016/05/16 xcolor patch
+atveryend.sty    2016/05/16 v1.9 Hooks at the very end of document (HO)
+refcount.sty    2016/05/16 v3.5 Data extraction from label references (HO)
+ hycolor.sty    2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+ auxhook.sty    2016/05/16 v1.4 Hooks for auxiliary files (HO)
+kvoptions.sty    2016/05/16 v3.12 Key value format for package options (HO)
+  pd1enc.def    2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+hyperref.cfg    2002/06/06 v1.2 hyperref configuration of TeXLive
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+ hpdftex.def    2016/06/24 v6.83q Hyperref driver for pdfTeX
+rerunfilecheck.sty    2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+beamerbaserequires.sty    2010/05/01  (rcs-revision efa082c6111d)
+beamerbasecompatibility.sty    2012/05/01  (rcs-revision 67c48b3b652d)
+beamerbasefont.sty    2015/01/05  (rcs-revision b4b4bee242e2)
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+sansmathaccent.sty    2013/03/28
+filehook.sty    2011/10/12 v0.5d Hooks for input files
+beamerbasetranslator.sty    2010/06/11  (rcs-revision 85fd1cc7fc42)
+translator.sty    2010/06/12 ver 1.10
+translator-language-mappings.tex
+beamerbasemisc.sty    2013/09/03  (rcs-revision a55719c41d85)
+beamerbasetwoscreens.sty    2010/05/01  (rcs-revision efa082c6111d)
+beamerbaseoverlay.sty    2013/12/25  (rcs-revision f6bd5e3805da)
+beamerbasetitle.sty    2010/09/21  (rcs-revision f0446ed0b6ae)
+beamerbasesection.sty    2013/06/07  (rcs-revision 60b9fe0f342f)
+beamerbaseframe.sty    2014/02/20  (rcs-revision 4b8ceeeff434)
+beamerbaseverbatim.sty    2015/01/05  (rcs-revision 431510bb5890)
+beamerbaseframesize.sty    2011/09/12  (rcs-revision 70f9d8411e54)
+beamerbaseframecomponents.sty    2013/10/18  (rcs-revision 5cf6c5555a45)
+beamerbasecolor.sty    2015/02/21  (rcs-revision d944b04ee2d5)
+beamerbasenotes.sty    2012/12/19  (rcs-revision 1686da3db3c9)
+beamerbasetoc.sty    2015/03/08  (rcs-revision 7270298bbaae)
+beamerbasetemplates.sty    2010/05/01  (rcs-revision efa082c6111d)
+beamerbaseauxtemplates.sty    2014/06/30  (rcs-revision 580088513a67)
+beamerbaseboxes.sty    2012/05/13  (rcs-revision 56972908a390)
+beamerbaselocalstructure.sty    2014/09/10  (rcs-revision 393f6dcff371)
+enumerate.sty    2015/07/23 v3.00 enumerate extensions (DPC)
+beamerbasenavigation.sty    2015/02/27  (rcs-revision 923f4bf87efa)
+beamerbasetheorems.sty    2010/06/06  (rcs-revision 7e7cc5e53e9d)
+ amsmath.sty    2016/06/28 v2.15d AMS math features
+ amstext.sty    2000/06/29 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2016/03/08 v2.02 operator names
+  amsthm.sty    2015/03/04 v2.20.2
+beamerbasethemes.sty    2010/05/01  (rcs-revision efa082c6111d)
+beamerthemedefault.sty    2010/06/17  (rcs-revision d02a7cf4d8ae)
+beamerfontthemedefault.sty    2012/12/19  (rcs-revision 1686da3db3c9)
+beamercolorthemedefault.sty    2012/12/19  (rcs-revision 1686da3db3c9)
+beamerinnerthemedefault.sty    2014/06/30  (rcs-revision 580088513a67)
+beamerouterthemedefault.sty    2012/12/19  (rcs-revision 1686da3db3c9)
+beamerthememetropolis.sty    2016/03/14 v1.1 Metropolis Beamer theme
+etoolbox.sty    2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+ pgfopts.sty    2014/07/10 v2.1a LaTeX package options with pgfkeys
+ pgfkeys.sty    
+ pgfkeys.code.tex
+beamerinnerthememetropolis.sty    2016/03/14 Metropolis inner theme
+    calc.sty    2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+    tikz.sty    2015/08/07 v3.0.1a (rcs-revision 1.151)
+     pgf.sty    2015/08/07 v3.0.1a (rcs-revision 1.15)
+pgfcomp-version-0-65.sty    2007/07/03 v3.0.1a (rcs-revision 1.7)
+pgfcomp-version-1-18.sty    2007/07/23 v3.0.1a (rcs-revision 1.1)
+  pgffor.sty    2013/12/13 v3.0.1a (rcs-revision 1.25)
+ pgfmath.sty    
+ pgfmath.code.tex
+  pgffor.code.tex
+    tikz.code.tex
+beamerouterthememetropolis.sty    2016/03/14 Metropolis outer theme
+beamercolorthememetropolis.sty    2016/03/14 Metropolis color theme
+beamerfontthememetropolis.sty    2016/03/14 Metropolis font theme
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(c:/Users/Tushaar/AppData/Roaming/.emacs.d/elpa/auctex-11.89.5/latex\preview.st
+y
+Package: preview 2010/02/14 11.89 (AUCTeX/preview-latex)
+
+(c:/Users/Tushaar/AppData/Roaming/.emacs.d/elpa/auctex-11.89.5/latex\prtightpag
+e.def
+\PreviewBorder=\dimen258
+)
+(c:/Users/Tushaar/AppData/Roaming/.emacs.d/elpa/auctex-11.89.5/latex\prauctex.d
+ef
+No auxiliary output files.
+
+
+\hbadness=\count166
+\hfuzz=\dimen259
+
+(c:/Users/Tushaar/AppData/Roaming/.emacs.d/elpa/auctex-11.89.5/latex\prauctex.c
+fg))
+(c:/Users/Tushaar/AppData/Roaming/.emacs.d/elpa/auctex-11.89.5/latex\prfootnote
+s.def)
+\pr@snippet=\count167
+\pr@box=\box58
+\pr@output=\toks47
+
+Preview: Fontsize 10.95pt
+Preview: PDFoutput 1
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Tushaar\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count168
+\scratchdimen=\dimen260
+\scratchbox=\box59
+\nofMPsegments=\count169
+\nofMParguments=\count170
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count171
+\MPscratchDim=\dimen261
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
+\everyMPtoPDFconversion=\toks49
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring OFF on input line 10.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count174
+)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 10.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 10.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 10.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 10.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 10.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 10.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+0.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+10.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 10.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-bibliography-dictionary\translator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-environment-dictionary\translator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-months-dictionary\translator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-numbers-dictionary\translator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-theorem-dictionary\translator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 10.
+
+ !name(recursion.tex) !offset(-3) 
+
+! Package tikz Error: Sorry, some package has redefined the meaning of the math
+-mode dollar sign. This is incompatible with tikz and its calc library and migh
+t cause unrecoverable errors.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \maketitle
+               
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+No file _region_.toc.
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 20.
+
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 23.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
+"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 39.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 39.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 39.
+
+! Preview: Snippet 1 started.
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+<Mondrian.png, id=14, 1156.32pt x 650.43pt>
+File: Mondrian.png Graphic file (type png)
+ <use Mondrian.png>
+Package pdftex.def Info: Mondrian.png used on input line 39.
+(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(4262907+0x7578502).
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+[1 <./Mondrian.png>]
+! Preview: Snippet 2 started.
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+File: Mondrian.png Graphic file (type png)
+<use Mondrian.png>
+Package pdftex.def Info: Mondrian.png used on input line 39.
+(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
+
+! Preview: Snippet 2 ended.(4262907+0x7578502).
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+[2]
+! Preview: Snippet 3 started.
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+File: Mondrian.png Graphic file (type png)
+<use Mondrian.png>
+Package pdftex.def Info: Mondrian.png used on input line 39.
+(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
+
+! Preview: Snippet 3 ended.(4262907+0x7578502).
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+[3]
+! Preview: Snippet 4 started.
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+File: Mondrian.png Graphic file (type png)
+<use Mondrian.png>
+Package pdftex.def Info: Mondrian.png used on input line 39.
+(pdftex.def)             Requested size: 115.63876pt x 65.0468pt.
+
+! Preview: Snippet 4 ended.(4262907+0x7578502).
+<-><->
+      
+l.39 \end{frame}
+                
+Not a real error.
+
+[4]
+! Preview: Snippet 5 started.
+<-><->
+      
+l.51 \end{frame}
+                
+Not a real error.
+
+<mirrors.png, id=27, 752.8125pt x 602.25pt>
+File: mirrors.png Graphic file (type png)
+ <use mirrors.png>
+Package pdftex.def Info: mirrors.png used on input line 51.
+(pdftex.def)             Requested size: 112.91699pt x 90.33359pt.
+
+! Preview: Snippet 5 ended.(5920102+0x7400128).
+<-><->
+      
+l.51 \end{frame}
+                
+Not a real error.
+
+[5 <./mirrors.png>]
+! Preview: Snippet 6 started.
+<-><->
+      
+l.51 \end{frame}
+                
+Not a real error.
+
+File: mirrors.png Graphic file (type png)
+<use mirrors.png>
+Package pdftex.def Info: mirrors.png used on input line 51.
+(pdftex.def)             Requested size: 112.91699pt x 90.33359pt.
+
+! Preview: Snippet 6 ended.(5920102+0x7400128).
+<-><->
+      
+l.51 \end{frame}
+                
+Not a real error.
+
+[6]
+! Preview: Snippet 7 started.
+<-><->
+      
+l.51 \end{frame}
+                
+Not a real error.
+
+File: mirrors.png Graphic file (type png)
+<use mirrors.png>
+Package pdftex.def Info: mirrors.png used on input line 51.
+(pdftex.def)             Requested size: 112.91699pt x 90.33359pt.
+
+! Preview: Snippet 7 ended.(5920102+0x7400128).
+<-><->
+      
+l.51 \end{frame}
+                
+Not a real error.
+
+[7]
+! Preview: Snippet 8 started.
+<-><->
+      
+l.75 \end{frame}
+                
+Not a real error.
+
+<divide.jpg, id=40, 1135.24126pt x 709.65125pt>
+File: divide.jpg Graphic file (type jpg)
+ <use divide.jpg>
+Package pdftex.def Info: divide.jpg used on input line 75.
+(pdftex.def)             Requested size: 227.04422pt x 141.92773pt.
+
+! Preview: Snippet 8 ended.(9301376+0x14879570).
+<-><->
+      
+l.75 \end{frame}
+                
+Not a real error.
+
+[8 <./divide.jpg>]
+! Preview: Snippet 9 started.
+<-><->
+      
+l.75 \end{frame}
+                
+Not a real error.
+
+File: divide.jpg Graphic file (type jpg)
+<use divide.jpg>
+Package pdftex.def Info: divide.jpg used on input line 75.
+(pdftex.def)             Requested size: 227.04422pt x 141.92773pt.
+
+! Preview: Snippet 9 ended.(9301376+0x14879570).
+<-><->
+      
+l.75 \end{frame}
+                
+Not a real error.
+
+[9]
+! Preview: Snippet 10 started.
+<-><->
+      
+l.75 \end{frame}
+                
+Not a real error.
+
+File: divide.jpg Graphic file (type jpg)
+<use divide.jpg>
+Package pdftex.def Info: divide.jpg used on input line 75.
+(pdftex.def)             Requested size: 227.04422pt x 141.92773pt.
+
+! Preview: Snippet 10 ended.(9301376+0x14879570).
+<-><->
+      
+l.75 \end{frame}
+                
+Not a real error.
+
+[10]
+! Preview: Snippet 11 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 11 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[11{C:/Users/Tushaar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+! Preview: Snippet 12 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 12 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[12]
+! Preview: Snippet 13 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 13 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[13]
+! Preview: Snippet 14 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 14 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[14]
+! Preview: Snippet 15 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 15 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[15]
+! Preview: Snippet 16 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 16 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[16]
+! Preview: Snippet 17 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 17 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[17]
+! Preview: Snippet 18 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 18 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[18]
+! Preview: Snippet 19 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 19 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[19]
+! Preview: Snippet 20 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 20 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[20]
+! Preview: Snippet 21 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 21 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[21]
+! Preview: Snippet 22 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 22 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[22]
+! Preview: Snippet 23 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 23 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[23]
+! Preview: Snippet 24 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 24 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[24]
+! Preview: Snippet 25 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 25 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[25]
+! Preview: Snippet 26 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 26 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[26]
+! Preview: Snippet 27 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 27 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[27]
+! Preview: Snippet 28 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 28 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[28]
+! Preview: Snippet 29 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 29 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[29]
+! Preview: Snippet 30 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 30 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[30]
+! Preview: Snippet 31 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 31 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[31]
+! Preview: Snippet 32 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 32 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[32]
+! Preview: Snippet 33 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 33 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[33]
+! Preview: Snippet 34 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 34 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[34]
+! Preview: Snippet 35 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 35 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[35]
+! Preview: Snippet 36 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 36 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[36]
+! Preview: Snippet 37 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 37 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[37]
+! Preview: Snippet 38 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 38 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[38]
+! Preview: Snippet 39 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 39 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[39]
+! Preview: Snippet 40 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 40 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[40]
+! Preview: Snippet 41 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 41 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[41]
+! Preview: Snippet 42 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 42 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[42]
+! Preview: Snippet 43 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 43 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[43]
+! Preview: Snippet 44 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 44 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[44]
+! Preview: Snippet 45 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 45 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[45]
+! Preview: Snippet 46 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 46 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[46]
+! Preview: Snippet 47 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 47 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[47]
+! Preview: Snippet 48 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 48 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[48]
+! Preview: Snippet 49 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 49 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[49]
+! Preview: Snippet 50 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 50 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[50]
+! Preview: Snippet 51 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 51 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[51]
+! Preview: Snippet 52 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 52 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[52]
+! Preview: Snippet 53 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 53 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[53]
+! Preview: Snippet 54 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 54 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[54]
+! Preview: Snippet 55 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 55 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[55]
+! Preview: Snippet 56 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 56 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[56]
+! Preview: Snippet 57 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 57 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[57]
+! Preview: Snippet 58 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 58 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[58]
+! Preview: Snippet 59 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 59 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[59]
+! Preview: Snippet 60 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 60 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[60]
+! Preview: Snippet 61 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 61 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[61]
+! Preview: Snippet 62 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 62 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[62]
+! Preview: Snippet 63 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 63 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[63]
+! Preview: Snippet 64 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 64 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[64]
+! Preview: Snippet 65 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 65 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[65]
+! Preview: Snippet 66 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 66 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[66]
+! Preview: Snippet 67 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 67 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[67]
+! Preview: Snippet 68 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 68 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[68]
+! Preview: Snippet 69 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 69 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[69]
+! Preview: Snippet 70 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 70 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[70]
+! Preview: Snippet 71 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 71 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[71]
+! Preview: Snippet 72 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 72 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[72]
+! Preview: Snippet 73 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 73 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[73]
+! Preview: Snippet 74 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 74 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[74]
+! Preview: Snippet 75 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 75 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[75]
+! Preview: Snippet 76 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 76 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[76]
+! Preview: Snippet 77 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 77 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[77]
+! Preview: Snippet 78 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 78 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[78]
+! Preview: Snippet 79 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 79 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[79]
+! Preview: Snippet 80 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 80 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[80]
+! Preview: Snippet 81 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 81 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[81]
+! Preview: Snippet 82 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 82 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[82]
+! Preview: Snippet 83 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 83 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[83]
+! Preview: Snippet 84 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 84 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[84]
+! Preview: Snippet 85 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 85 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[85]
+! Preview: Snippet 86 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 86 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[86]
+! Preview: Snippet 87 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 87 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[87]
+! Preview: Snippet 88 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 88 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[88]
+! Preview: Snippet 89 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 89 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[89]
+! Preview: Snippet 90 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 90 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[90]
+! Preview: Snippet 91 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 91 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[91]
+! Preview: Snippet 92 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 92 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[92]
+! Preview: Snippet 93 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 93 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[93]
+! Preview: Snippet 94 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 94 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[94]
+! Preview: Snippet 95 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 95 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[95]
+! Preview: Snippet 96 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 96 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[96]
+! Preview: Snippet 97 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 97 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[97]
+! Preview: Snippet 98 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 98 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[98]
+! Preview: Snippet 99 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 99 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[99]
+! Preview: Snippet 100 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 100 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[100]
+! Preview: Snippet 101 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 101 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[101]
+! Preview: Snippet 102 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 102 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[102]
+! Preview: Snippet 103 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 103 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[103]
+! Preview: Snippet 104 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 104 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[104]
+! Preview: Snippet 105 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 105 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[105]
+! Preview: Snippet 106 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 106 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[106]
+! Preview: Snippet 107 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 107 ended.(498346+0x612769).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[107]
+! Preview: Snippet 108 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 108 ended.(538214+179404x3308619).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[108]
+! Preview: Snippet 109 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 109 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[109]
+! Preview: Snippet 110 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 110 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[110]
+! Preview: Snippet 111 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 111 ended.(498346+0x1465135).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[111]
+! Preview: Snippet 112 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 112 ended.(498346+0x2342220).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[112]
+! Preview: Snippet 113 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 113 ended.(498346+0x3219305).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[113]
+! Preview: Snippet 114 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 114 ended.(498346+0x4096390).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[114]
+! Preview: Snippet 115 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 115 ended.(498346+0x4973475).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[115]
+! Preview: Snippet 116 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 116 ended.(498346+0x588050).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[116]
+! Preview: Snippet 117 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 117 ended.(470439+0x358810).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[117]
+! Preview: Snippet 118 started.
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+! Preview: Snippet 118 ended.(470439+0x1833915).
+<-><->
+      
+l.94 \end{frame}
+                
+Not a real error.
+
+[118]
+! Preview: Snippet 119 started.
+<-><->
+      
+l.117 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 119 ended.(2583453+0x20138549).
+<-><->
+      
+l.117 \end{frame}
+                 
+Not a real error.
+
+[119]
+! Preview: Snippet 120 started.
+<-><->
+      
+l.117 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 120 ended.(2583453+0x20138549).
+<-><->
+      
+l.117 \end{frame}
+                 
+Not a real error.
+
+[120]
+! Preview: Snippet 121 started.
+<-><->
+      
+l.117 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 121 ended.(2583453+0x20138549).
+<-><->
+      
+l.117 \end{frame}
+                 
+Not a real error.
+
+[121]
+! Preview: Snippet 122 started.
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+<math.jpg, id=409, 2633.84pt x 1880.02374pt>
+File: math.jpg Graphic file (type jpg)
+ <use math.jpg>
+Package pdftex.def Info: math.jpg used on input line 135.
+(pdftex.def)             Requested size: 158.02357pt x 112.79655pt.
+
+! Preview: Snippet 122 ended.(7392235+0x10356233).
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+[122 <./math.jpg>]
+! Preview: Snippet 123 started.
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+File: math.jpg Graphic file (type jpg)
+<use math.jpg>
+Package pdftex.def Info: math.jpg used on input line 135.
+(pdftex.def)             Requested size: 158.02357pt x 112.79655pt.
+
+! Preview: Snippet 123 ended.(7392235+0x10356233).
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+[123]
+! Preview: Snippet 124 started.
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+File: math.jpg Graphic file (type jpg)
+<use math.jpg>
+Package pdftex.def Info: math.jpg used on input line 135.
+(pdftex.def)             Requested size: 158.02357pt x 112.79655pt.
+
+! Preview: Snippet 124 ended.(7392235+0x10356233).
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+[124]
+! Preview: Snippet 125 started.
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+File: math.jpg Graphic file (type jpg)
+<use math.jpg>
+Package pdftex.def Info: math.jpg used on input line 135.
+(pdftex.def)             Requested size: 158.02357pt x 112.79655pt.
+
+! Preview: Snippet 125 ended.(7392235+0x10356233).
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+[125]
+! Preview: Snippet 126 started.
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+File: math.jpg Graphic file (type jpg)
+<use math.jpg>
+Package pdftex.def Info: math.jpg used on input line 135.
+(pdftex.def)             Requested size: 158.02357pt x 112.79655pt.
+
+! Preview: Snippet 126 ended.(7392235+0x10356233).
+<-><->
+      
+l.135 \end{frame}
+                 
+Not a real error.
+
+[126]
+! Preview: Snippet 127 started.
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 127 ended.(2583453+0x20138549).
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+[127]
+! Preview: Snippet 128 started.
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+<mind.jpg, id=431, 451.6875pt x 268.75406pt>
+File: mind.jpg Graphic file (type jpg)
+ <use mind.jpg>
+Package pdftex.def Info: mind.jpg used on input line 157.
+(pdftex.def)             Requested size: 112.92159pt x 67.18834pt.
+
+! Preview: Snippet 128 ended.(4403255+0x7400429).
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+[128 <./mind.jpg>]
+! Preview: Snippet 129 started.
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 129 ended.(2583453+0x20138549).
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+[129]
+! Preview: Snippet 130 started.
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+File: mind.jpg Graphic file (type jpg)
+<use mind.jpg>
+Package pdftex.def Info: mind.jpg used on input line 157.
+(pdftex.def)             Requested size: 112.92159pt x 67.18834pt.
+
+! Preview: Snippet 130 ended.(4403255+0x7400429).
+<-><->
+      
+l.157 \end{frame}
+                 
+Not a real error.
+
+[130]
+! Preview: Snippet 131 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 131 ended.(2583453+0x20138549).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[131]
+! Preview: Snippet 132 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 132 ended.(470439+0x2071141).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[132]
+! Preview: Snippet 133 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 133 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[133]
+! Preview: Snippet 134 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 134 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[134]
+! Preview: Snippet 135 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 135 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[135]
+! Preview: Snippet 136 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 136 ended.(2583453+0x20138549).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[136]
+! Preview: Snippet 137 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 137 ended.(470439+0x2071141).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[137]
+! Preview: Snippet 138 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 138 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[138]
+! Preview: Snippet 139 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 139 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[139]
+! Preview: Snippet 140 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 140 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[140]
+! Preview: Snippet 141 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 141 ended.(2583453+0x20138549).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[141]
+! Preview: Snippet 142 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 142 ended.(470439+0x2071141).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[142]
+! Preview: Snippet 143 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 143 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[143]
+! Preview: Snippet 144 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 144 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[144]
+! Preview: Snippet 145 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 145 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[145]
+! Preview: Snippet 146 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 146 ended.(2583453+0x20138549).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[146]
+! Preview: Snippet 147 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 147 ended.(470439+0x2071141).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[147]
+! Preview: Snippet 148 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 148 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[148]
+! Preview: Snippet 149 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 149 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[149]
+! Preview: Snippet 150 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 150 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[150]
+! Preview: Snippet 151 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 151 ended.(2583453+0x20138549).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[151]
+! Preview: Snippet 152 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 152 ended.(470439+0x2071141).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[152]
+! Preview: Snippet 153 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 153 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[153]
+! Preview: Snippet 154 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 154 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[154]
+! Preview: Snippet 155 started.
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 155 ended.(538214+179404x9361476).
+<-><->
+      
+l.181 \end{frame}
+                 
+Not a real error.
+
+[155]
+! Preview: Snippet 156 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 156 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[156]
+! Preview: Snippet 157 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 157 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[157]
+! Preview: Snippet 158 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 158 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[158]
+! Preview: Snippet 159 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 159 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[159]
+! Preview: Snippet 160 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 160 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[160]
+! Preview: Snippet 161 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 161 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[161]
+! Preview: Snippet 162 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 162 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[162]
+! Preview: Snippet 163 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 163 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[163]
+! Preview: Snippet 164 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 164 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[164]
+! Preview: Snippet 165 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 165 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[165]
+! Preview: Snippet 166 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 166 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[166]
+! Preview: Snippet 167 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 167 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[167]
+! Preview: Snippet 168 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 168 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[168]
+! Preview: Snippet 169 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 169 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[169]
+! Preview: Snippet 170 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 170 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[170]
+! Preview: Snippet 171 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 171 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[171]
+! Preview: Snippet 172 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 172 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[172]
+! Preview: Snippet 173 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 173 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[173]
+! Preview: Snippet 174 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 174 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[174]
+! Preview: Snippet 175 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 175 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[175]
+! Preview: Snippet 176 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 176 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[176]
+! Preview: Snippet 177 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 177 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[177]
+! Preview: Snippet 178 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 178 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[178]
+! Preview: Snippet 179 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 179 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[179]
+! Preview: Snippet 180 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 180 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[180]
+! Preview: Snippet 181 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 181 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[181]
+! Preview: Snippet 182 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 182 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[182]
+! Preview: Snippet 183 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 183 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[183]
+! Preview: Snippet 184 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 184 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[184]
+! Preview: Snippet 185 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 185 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[185]
+! Preview: Snippet 186 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 186 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[186]
+! Preview: Snippet 187 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 187 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[187]
+! Preview: Snippet 188 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 188 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[188]
+! Preview: Snippet 189 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 189 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[189]
+! Preview: Snippet 190 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 190 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[190]
+! Preview: Snippet 191 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 191 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[191]
+! Preview: Snippet 192 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 192 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[192]
+! Preview: Snippet 193 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 193 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[193]
+! Preview: Snippet 194 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 194 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[194]
+! Preview: Snippet 195 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 195 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[195]
+! Preview: Snippet 196 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 196 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[196]
+! Preview: Snippet 197 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 197 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[197]
+! Preview: Snippet 198 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 198 ended.(538214+179404x9361476).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[198]
+! Preview: Snippet 199 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 199 ended.(538214+179404x5597691).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[199]
+! Preview: Snippet 200 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 200 ended.(538214+179404x2966433).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[200]
+! Preview: Snippet 201 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 201 ended.(538214+179404x6235576).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[201]
+! Preview: Snippet 202 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 202 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[202]
+! Preview: Snippet 203 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 203 ended.(538214+179404x6235579).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[203]
+! Preview: Snippet 204 started.
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+! Preview: Snippet 204 ended.(538214+179404x6307343).
+<-><->
+      
+l.205 \end{frame}
+                 
+Not a real error.
+
+[204]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 207.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
+ ) 
+Here is how much of TeX's memory you used:
+ 1535 strings out of 474348
+ 32547 string characters out of 2756464
+ 477252 words of memory out of 3000000
+ 23554 multiletter control sequences out of 15000+200000
+ 14196 words of font info for 51 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,16n,82p,188b,815s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on _region_.pdf (204 pages, 1812710 bytes).
+PDF statistics:
+ 702 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+

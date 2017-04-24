@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'RecursivePalindromeTester'
+
+jar {
+  manifest {
+    attributes 'Main-Class' : 'RecursivePalindromeTester'
+  }
+}
+
+run {
+  standardInput = System.in
+}

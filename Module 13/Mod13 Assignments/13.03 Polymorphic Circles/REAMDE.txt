@@ -1,0 +1,11 @@
+PMR
+
++
+While polymorphism seems a bit more complicated than the last few lessons, it
+still isn't that bad overall. Using ArrayLists are great, as they deal
+excellently with objects, and the program was simple to make.
+
+-
+I don't see any advantages to using this "manual" polymorphism to inheritance,
+why do we need to access methods of a superclass when they are automatically
+inherited to the subclasses anyway?
