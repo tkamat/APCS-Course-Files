@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_101\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona
+-d
+C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\Mona.java
+<---- end of javadoc command ---->
+Loading source file C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\Mona.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_101
+Building tree for all the packages and classes...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\Mona.html...
+C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\Mona.java:8: warning - @ is an unknown tag.
+C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\Mona.java:8: warning - @ is an unknown tag.
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\package-frame.html...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\package-summary.html...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\allclasses-frame.html...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\allclasses-noframe.html...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\index.html...
+Generating C:\APCS Course Files\Module 3\Mod03 Assignments\3.09 Project Mona\doc\stylesheet.css...
+2 warnings
