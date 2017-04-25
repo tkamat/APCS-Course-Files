@@ -1,9 +1,0 @@
-Sleepy
-Sneezy
-Doc
-Dopey
-Happy
-Bashful
-Grumpy
-Ted
-Fred
